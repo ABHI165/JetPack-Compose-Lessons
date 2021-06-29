@@ -76,7 +76,7 @@ class Lesson1Activity : ComponentActivity() {
             }
             Column {
                 Text(
-                    text = "Admam Smith ",
+                    text = "Adam Smith ",
                     color = Color.Black,
                     style = MaterialTheme.typography.h6
                 )
@@ -112,7 +112,7 @@ class Lesson1Activity : ComponentActivity() {
                 }
                 Column {
                     Text(
-                        text = "Admam Smith ",
+                        text = "Adam Smith ",
                         color = Color.Black,
                         style = MaterialTheme.typography.h6
                     )
